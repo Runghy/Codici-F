@@ -1,0 +1,78 @@
+nav	{
+	font-weight: bold;
+	font-size: 40px ;
+	font-family: Stencil normale;
+	background-color: #B8FF99;
+	color: brown;
+	padding: 20px;
+	text-align:center;
+	margin: 0px 0px ;
+	}
+			
+body	{
+	font-weight: bold ;
+	font-size: 12px ;
+	font-family: Arial;	
+	background-color: #FFFEB4;
+	margin: 5px 100px ;
+	}
+			
+header	{
+	font-weight: bold;	
+	font-size: 16px ;
+	font-family: Tahoma;
+	background-color: #B8FF99;
+	color: #FF000A;
+	padding: 20px;
+	text-align:center;
+	margin: 0px 0px ;
+	}
+		
+p	{
+	font-weight: bold;
+	font-size: 18px ;
+	font-family: Tahoma;
+	background-color: #FFFEB4;
+	color: black;
+	padding: 20px;
+	text-align:center;
+	margin: 0px 0px ;
+	}
+	
+caption	{
+	font-weight: bold ;
+	font-size: 30px ;
+	font-family: Stencil normale;
+	background-color: #FFFEB4;
+	color: brown;
+	padding: 20px;
+	text-align:center;
+	margin: 0px 0px ;
+	}
+	
+tbody	{
+	font-weight: normal ;
+	font-size: 18px ;
+	font-family: Calibri;
+	background-color: #FFFDF4;
+	}
+	
+thead	{
+	font-weight: bold ;
+	font-size: 19px ;
+	font-family: Calibri;
+	background-color: #FFFCD4;
+	}
+	
+td	{color: #020202;
+	padding: 5px;
+	}
+	
+a	{
+	color: black;
+	text-align: center;
+	text-decoration: none;
+	}
+
+#tabella 	a{color: red;	text-align: center; text-decoration: underline;}
+	
